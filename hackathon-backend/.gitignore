@@ -1,0 +1,17 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Chroma DB — large binary, shouldn't be in git
+city_vibe_db_v2/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
